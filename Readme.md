@@ -131,7 +131,3 @@ This project helped me practice:
 * Package as a command-line utility.
 
 ---
-
-## License
-
-This project is intended for learning and portfolio purposes.
